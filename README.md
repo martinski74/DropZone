@@ -1,5 +1,7 @@
 # drop-zone
 
+## This is a simple customm drag and drop component - vue 3 used!
+
 ## Project setup
 ```
 yarn install
